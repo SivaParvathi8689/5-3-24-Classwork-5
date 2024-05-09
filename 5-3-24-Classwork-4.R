@@ -1,3 +1,4 @@
+#Sivaparvathi Yanikapati
 inc <- read.csv("C:\\Users\\yspar\\Downloads\\Income.csv") # Open Income.csv
 head(inc) # 5 variables
 # Load ggplot2 package
